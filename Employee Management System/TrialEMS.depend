@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608186068 source:c:\users\aman pathak\file handling\trialems\main.cpp
+	<iostream>
+	<fstream>
+	<ios>
+	<limits>
+	<conio.h>
+	<stdlib.h>
+	<string>
+	<iomanip>
+
